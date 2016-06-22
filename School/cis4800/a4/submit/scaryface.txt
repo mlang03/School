@@ -1,0 +1,4 @@
+light -20 -50 0 1 1 1
+sphere 50 0 0 20 1 0 0 
+sphere 30 0 -5 3 0 1 0
+sphere 30 0 5 3 0 0 1

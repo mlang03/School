@@ -1,0 +1,63 @@
+/* TONS OF ERRORS */
+
+int p;
+int b[2];
+void j;
+int f(int n){
+    int y;
+    if (j){
+        return 1;
+    }
+    else{
+        return n*factorial(n-1);
+    }
+}
+
+int a(void){
+    
+}
+
+int a(int n){
+    f(j,i,i);
+    while(j){
+        int mo;
+        int op;
+        int jj;
+        
+        mo = p;
+        
+    }
+}
+
+
+
+void m(int n){
+    j = 2;
+    {
+        int p;
+        void r;
+        {
+            void gh;
+            void pb;
+            if (a){
+                int om;
+                void j;
+            }
+            gh = p;
+        }
+        p = r;
+        b = 2 + r + 3;
+    }
+}
+
+int main(int x, int y, int z){
+    int x;
+    void c;
+    b[c] = x;
+	oo = 5;
+    x = c;
+    x = 6 + 7 + 8 + c;
+    x = 3;
+    return c;
+}
+

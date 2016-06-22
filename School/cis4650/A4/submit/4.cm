@@ -1,0 +1,10 @@
+/*NO ERRORS*/
+
+
+int main(void){
+    int x;
+    int y;
+    int z;
+    int b;
+    b = x + y + z + 23;
+}

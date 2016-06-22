@@ -1,0 +1,20 @@
+/* 3.cm  TEST CONDITIONS ARE NOT INTS, DOUBLE DEFINED VARIABLE*/
+
+
+int main (int p){
+    int p;
+    void q;
+    
+    if (p){
+        
+    }
+    
+    if (q){
+        /*ERROR*/
+    }
+    
+    while (q){
+        /*ERROR*/
+    }
+    
+}

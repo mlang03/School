@@ -1,0 +1,20 @@
+/*this file contains 3 errors; the random a, the param abs has no type, and there is no semi colon after x = input() */
+a
+
+int gcd (int u, int v){
+if (v == 0) return u;
+else return gcd(v,u-u/v*v);
+}
+
+void ex(abs){
+a = 3;
+}
+
+void main(void){
+int x; int y;
+x = input()
+y = input();
+output(gcd(x,y));
+}
+
+

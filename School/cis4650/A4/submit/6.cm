@@ -1,0 +1,10 @@
+/*The variable b is not declared properly, the [] is a syntax error
+ This file also showcases an array of ints */
+b[20];
+int c[30];
+
+int main(void){
+[]
+int a;
+
+}
