@@ -1,0 +1,23 @@
+
+STACKS: A B C
+
+3 stacks non-empty:
+
+    if A > B and 
+    
+    if A > B AND A > C -> if B > C move B to A
+                       ->
+
+    if B > A move A to C
+    
+2 stacks non-empty:
+
+    if A is EMPTY and B > C move B to A
+    
+    if B is EMPTY move C to A
+    
+    if C is EMPTY move A to C
+    
+1 stack non-empty:
+    
+    if B AND C EMPTY move A to B
