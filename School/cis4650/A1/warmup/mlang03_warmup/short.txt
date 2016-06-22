@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> LA010190-0001 </DOCNO>
+<DOCID> 156144 </DOCID>
+<DATE>
+<P>
+January 1, 1990, Monday, Home Edition 
+</P>
+</DATE>
+<SECTION>
+<P>
+Metro; Part B; Page 1; Column 1; Metro Desk 
+</P>
+</SECTION>
+<LENGTH>
+<P>
+85 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+NEW YEAR'S DAY 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Today is New Year's Day. The following will be closed: 
+</P>

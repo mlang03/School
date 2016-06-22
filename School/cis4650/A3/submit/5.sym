@@ -1,0 +1,41 @@
+Entering Global Scope
+    Entering function f
+        Entering If (then) Statement
+            Entering Compound Statement
+        Entering If (else) Statement
+            Entering Compound Statement
+        n: int var 
+        y: int var 
+    Entering function a
+    Entering function a
+        Entering While Statement
+            Entering Compound Statement
+                mo: int var 
+                op: int var 
+                jj: int var 
+        n: int var 
+    Entering function m
+        Entering Compound Statement
+            Entering Compound Statement
+                Entering If (then) Statement
+                    Entering Compound Statement
+                        j: void var
+                        om: int var 
+                gh: void var
+                pb: void var
+            p: int var 
+            r: void var
+        n: int var 
+    Entering function main
+        c: void var
+        x: int var 
+        y: int var 
+        z: int var 
+    a: int func (int)
+    a: int func ()
+    b: int array, size 2
+    f: int func (int)
+    j: void var
+    m: void func
+    p: int var 
+    main: int func (int, int, int)

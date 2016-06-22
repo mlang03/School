@@ -1,0 +1,20 @@
+/* 2.cm FUNCTION RELATED ERRORS EX: TOO MANY/FEW ARGS */
+
+
+int f(int x, int y, int z){
+    
+    
+}
+
+int main(void){
+    int a;
+    int b;
+    int c;
+    void d;
+    
+    f(a,b,c);
+    f();
+    f(a,b);
+    f(a,b,d);
+    f(a,b,c,d);
+}

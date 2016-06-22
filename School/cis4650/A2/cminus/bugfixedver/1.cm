@@ -1,0 +1,17 @@
+/* No ERRORS */
+
+int main(int x, int y, int z){
+    int x;
+    x = 7;
+    factorial(x);
+    call(this(func(again(x+1))));
+}
+
+int factorial(int n){
+    if (n == 1){
+        return 1;
+    }
+    else{
+        return n*factorial(n-1);
+    }
+}

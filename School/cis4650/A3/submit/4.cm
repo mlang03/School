@@ -1,0 +1,14 @@
+/* 4.cm CONTAINS MAINLY ARRAY BASED ERRORS*/
+
+int a[10];
+void b;
+
+int main(void){
+    int c;
+    
+    
+    a[b] = c;
+    a[c] = b;
+    c = b + c;
+    b = c;
+}

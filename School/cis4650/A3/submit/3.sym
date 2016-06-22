@@ -1,0 +1,11 @@
+Entering Global Scope
+    Entering function main
+        Entering If (then) Statement
+            Entering Compound Statement
+        Entering If (then) Statement
+            Entering Compound Statement
+        Entering While Statement
+            Entering Compound Statement
+        p: int var 
+        q: void var
+    main: int func (int)

@@ -1,0 +1,44 @@
+Syntax tree:
+  Declare Func: main
+    Type: int
+    Param: x
+      Type: int
+    Param: y
+      Type: int
+    Param: z
+      Type: int
+    Compound Stmt:
+      Declare Var: x
+        Type: int
+      Assign
+        Id: x
+        Const: 7
+      Call: factorial
+        Id: x
+      Call: call
+        Call: this
+          Call: func
+            Call: again
+              Op: +
+                Id: x
+                Const: 1
+  Declare Func: factorial
+    Type: int
+    Param: n
+      Type: int
+    Compound Stmt:
+      If
+        Op: ==
+          Id: n
+          Const: 1
+        Compound Stmt:
+          Return
+            Const: 1
+        Compound Stmt:
+          Return
+            Op: *
+              Id: n
+              Call: factorial
+                Op: -
+                  Id: n
+                  Const: 1
